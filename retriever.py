@@ -66,27 +66,32 @@ def semantic_similarity(a: str, b: str) -> float:
     return float(util.pytorch_cos_sim(emb1, emb2).item())
 
 def boost_score(doc: Document, extracted_meta: dict) -> float:
+    if not extracted_meta:
+        return 0
     score = 0
     m = doc.metadata
-    per_match_score = 1.0 / len(extracted_meta) if extracted_meta else 0
+   
+    per_match_score = 1.0 / len(extracted_meta)
 
-    for key, query_val in extracted_meta.items():
-        doc_val = m.get(key)
-        if not doc_val:
+    for key, query_vals in extracted_meta.items():
+        query_vals = query_vals if isinstance(query_vals, list) else [query_vals]
+        doc_vals = m.get(key)
+        if not doc_vals:
             continue
+        doc_vals = doc_vals if isinstance(doc_vals, list) else [doc_vals]
 
-        values_to_check = doc_val if isinstance(doc_val, list) else [doc_val]
-        for val in values_to_check:
-            val_str = str(val).lower()
-            query_str = str(query_val).lower()
+        for q in query_vals:
+            for d in doc_vals:
+                fuzzy = fuzz.partial_ratio(str(d).lower(), str(q).lower()) / 100
+                semantic = semantic_similarity(str(d), str(q))
+                combined = max(fuzzy, semantic)
+                if combined > 0.85:
+                    score += per_match_score
+                    break
+            else:
+                continue
+            break
 
-            fuzzy = fuzz.partial_ratio(val_str, query_str) / 100
-            semantic = semantic_similarity(val_str, query_str)
-
-            combined_score = max(fuzzy, semantic)  # Or average them
-            if combined_score > 0.85:  # Threshold
-                score += per_match_score
-                break  # Only one match per field needed
     return score
 
 
