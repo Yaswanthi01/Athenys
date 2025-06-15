@@ -1,0 +1,11 @@
+Invoice #: EDU-302
+Date: 2025-06-05
+Student: Shreya Kapoor
+
+Course: Physics + Chemistry
+Months: April to June 2025
+
+Tuition Fee: ₹12,000
+Materials: ₹1,000
+
+Total: ₹13,000

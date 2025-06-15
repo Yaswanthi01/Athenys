@@ -1,0 +1,10 @@
+Invoice #: PH-010
+Date: 2025-06-25
+Client: Maya Events
+
+Service                             Rate      Qty     Amount
+--------------------------------------------------------------
+Event Shoot                        ₹12,000     1      ₹12,000
+Prints (Album - 50 photos)        ₹20/image   50      ₹1,000
+
+Total: ₹13,000

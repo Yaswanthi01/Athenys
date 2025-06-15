@@ -1,0 +1,10 @@
+Invoice #: CAT-874
+Date: 2025-06-08
+Client: GreenLeaf Enterprises
+
+Item                          Qty     Rate      Amount
+----------------------------------------------------------
+Buffet (Lunch - 50 pax)       50      ₹600      ₹30,000
+Evening Snacks                50      ₹250      ₹12,500
+
+Total: ₹42,500

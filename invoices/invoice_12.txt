@@ -1,0 +1,12 @@
+Invoice #: EC-2291
+Date: 2025-06-21
+Customer: John Doe
+
+Item                         Qty     Price      Total
+-------------------------------------------------------
+Mechanical Keyboard          1       ₹5,499     ₹5,499
+Mouse Pad                    1       ₹499       ₹499
+
+Subtotal:                                        ₹5,998
+Delivery Fee:                                     ₹100
+Total:                                          ₹6,098

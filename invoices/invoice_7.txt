@@ -1,0 +1,10 @@
+Invoice #: RENT-564
+Date: 2025-06-01
+Tenant: Arjun Mehta
+
+Rent (June 2025): ₹22,000
+Water Charges: ₹500
+Maintenance: ₹1,200
+
+Total Due: ₹23,700
+Due Date: 2025-06-05

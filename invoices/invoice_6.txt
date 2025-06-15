@@ -1,0 +1,10 @@
+Invoice #: PH-009
+Date: 2025-06-14
+Client: Maya Events
+
+Service                             Rate      Qty     Amount
+--------------------------------------------------------------
+Wedding Shoot                      ₹15,000     1      ₹15,000
+Edited Photos (100)               ₹10/image   100     ₹1,000
+
+Total: ₹16,000

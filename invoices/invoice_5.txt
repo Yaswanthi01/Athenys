@@ -1,0 +1,11 @@
+Invoice #: MED-2201
+Date: 2025-06-13
+Patient: Riya Verma
+
+Service                        Fee
+----------------------------------------
+Consultation                  ₹600
+Blood Test Panel             ₹1,200
+X-ray                        ₹800
+
+Total: ₹2,600

@@ -1,0 +1,10 @@
+Invoice #: SAAS-113
+Date: 2025-06-01
+Client: FinServe Ltd
+
+Plan: Pro Subscription
+Duration: June 2025
+
+Amount: ₹4,999
+GST (18%): ₹899.82
+Total: ₹5,898.82

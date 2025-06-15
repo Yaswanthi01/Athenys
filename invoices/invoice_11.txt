@@ -1,0 +1,12 @@
+Invoice #: 002
+Date: 2025-07-14
+Client: Acme Corp
+
+Description                     Hours    Rate      Amount
+-----------------------------------------------------------
+Bug Fixing & QA                 20       ₹1500     ₹30,000
+Performance Optimization        12       ₹2000     ₹24,000
+
+Subtotal:                                        ₹54,000
+Tax (18% GST):                                  ₹9,720
+Total:                                          ₹63,720

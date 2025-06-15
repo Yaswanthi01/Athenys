@@ -1,0 +1,815 @@
+[
+  {
+    "invoice_id": "INT-901",
+    "company_name": "Sahil Rana",
+    "payer": "Sahil Rana",
+    "recipient": "Unknown",
+    "date": "2025-06-12",
+    "category": "consulting",
+    "description": "Living Room Design",
+    "rate": "\u20b935,000",
+    "amount": "\u20b935,000",
+    "metadata": {
+      "invoice_id": "INT-901",
+      "company_name": "Sahil Rana",
+      "payer": "Sahil Rana",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "INT-901",
+    "company_name": "Sahil Rana",
+    "payer": "Sahil Rana",
+    "recipient": "Unknown",
+    "date": "2025-06-12",
+    "category": "consulting",
+    "description": "Furniture Coordination",
+    "rate": "\u20b915,000",
+    "amount": "\u20b915,000",
+    "metadata": {
+      "invoice_id": "INT-901",
+      "company_name": "Sahil Rana",
+      "payer": "Sahil Rana",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "INT-901",
+    "company_name": "Sahil Rana",
+    "payer": "Sahil Rana",
+    "recipient": "Unknown",
+    "date": "2025-06-12",
+    "category": "consulting",
+    "description": "Subtotal",
+    "amount": "\u20b950,000",
+    "metadata": {
+      "invoice_id": "INT-901",
+      "company_name": "Sahil Rana",
+      "payer": "Sahil Rana",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "INT-901",
+    "company_name": "Sahil Rana",
+    "payer": "Sahil Rana",
+    "recipient": "Unknown",
+    "date": "2025-06-12",
+    "category": "consulting",
+    "description": "GST (18%)",
+    "amount": "\u20b99,000",
+    "metadata": {
+      "invoice_id": "INT-901",
+      "company_name": "Sahil Rana",
+      "payer": "Sahil Rana",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "INT-901",
+    "company_name": "Sahil Rana",
+    "payer": "Sahil Rana",
+    "recipient": "Unknown",
+    "date": "2025-06-12",
+    "category": "consulting",
+    "description": "Total",
+    "amount": "\u20b959,000",
+    "metadata": {
+      "invoice_id": "INT-901",
+      "company_name": "Sahil Rana",
+      "payer": "Sahil Rana",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "002",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": "Unknown",
+    "date": "2025-07-14",
+    "category": "software",
+    "description": "Bug Fixing & QA",
+    "hours": 20,
+    "rate": "\u20b91500",
+    "amount": "\u20b930,000",
+    "metadata": {
+      "invoice_id": "002",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "002",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": "Unknown",
+    "date": "2025-07-14",
+    "category": "software",
+    "description": "Performance Optimization",
+    "hours": 12,
+    "rate": "\u20b92000",
+    "amount": "\u20b924,000",
+    "metadata": {
+      "invoice_id": "002",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "002",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": "Unknown",
+    "date": "2025-07-14",
+    "category": "software",
+    "description": "Subtotal",
+    "amount": "\u20b954,000",
+    "metadata": {
+      "invoice_id": "002",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "002",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": "Unknown",
+    "date": "2025-07-14",
+    "category": "software",
+    "description": "Tax (18% GST)",
+    "amount": "\u20b99,720",
+    "metadata": {
+      "invoice_id": "002",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "002",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": "Unknown",
+    "date": "2025-07-14",
+    "category": "software",
+    "description": "Total",
+    "amount": "\u20b963,720",
+    "metadata": {
+      "invoice_id": "002",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "CAT-874",
+    "company_name": "GreenLeaf Enterprises",
+    "payer": "GreenLeaf Enterprises",
+    "recipient": "Unknown",
+    "date": "2025-06-08",
+    "category": "events",
+    "description": "Buffet (Lunch - 50 pax)",
+    "quantity": 50,
+    "unit_price": 600,
+    "amount": 30000,
+    "metadata": {
+      "invoice_id": "CAT-874",
+      "company_name": "GreenLeaf Enterprises",
+      "payer": "GreenLeaf Enterprises",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "invoice_id": "CAT-874",
+    "company_name": "GreenLeaf Enterprises",
+    "payer": "GreenLeaf Enterprises",
+    "recipient": "Unknown",
+    "date": "2025-06-08",
+    "category": "events",
+    "description": "Evening Snacks",
+    "quantity": 50,
+    "unit_price": 250,
+    "amount": 12500,
+    "metadata": {
+      "invoice_id": "CAT-874",
+      "company_name": "GreenLeaf Enterprises",
+      "payer": "GreenLeaf Enterprises",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "description": "Tuition Fee",
+    "amount": 12000,
+    "invoice_id": "EDU-302",
+    "company_name": "Shreya Kapoor",
+    "payer": "Shreya Kapoor",
+    "recipient": "Educational Institution",
+    "date": "2025-06-05",
+    "service_period": "April to June 2025",
+    "category": "education",
+    "metadata": {
+      "invoice_id": "EDU-302",
+      "company_name": "Shreya Kapoor",
+      "payer": "Shreya Kapoor",
+      "recipient": "Educational Institution",
+      "year": 2025,
+      "month": 6,
+      "category": "education"
+    }
+  },
+  {
+    "description": "Materials",
+    "amount": 1000,
+    "invoice_id": "EDU-302",
+    "company_name": "Shreya Kapoor",
+    "payer": "Shreya Kapoor",
+    "recipient": "Educational Institution",
+    "date": "2025-06-05",
+    "service_period": "April to June 2025",
+    "category": "education",
+    "metadata": {
+      "invoice_id": "EDU-302",
+      "company_name": "Shreya Kapoor",
+      "payer": "Shreya Kapoor",
+      "recipient": "Educational Institution",
+      "year": 2025,
+      "month": 6,
+      "category": "education"
+    }
+  },
+  {
+    "invoice_id": "EC-2291",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": null,
+    "date": "2025-06-21",
+    "category": "hardware",
+    "description": "Mechanical Keyboard",
+    "quantity": 1,
+    "unit_price": "\u20b95,499",
+    "total": "\u20b95,499",
+    "metadata": {
+      "invoice_id": "EC-2291",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "EC-2291",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": null,
+    "date": "2025-06-21",
+    "category": "hardware",
+    "description": "Mouse Pad",
+    "quantity": 1,
+    "unit_price": "\u20b9499",
+    "total": "\u20b9499",
+    "metadata": {
+      "invoice_id": "EC-2291",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "EC-2291",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": null,
+    "date": "2025-06-21",
+    "category": "hardware",
+    "description": "Delivery Fee",
+    "total": "\u20b9100",
+    "metadata": {
+      "invoice_id": "EC-2291",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "SAAS-114",
+    "company_name": "FinServe Ltd",
+    "payer": "FinServe Ltd",
+    "recipient": "Unknown",
+    "date": "2025-07-01",
+    "category": "software",
+    "description": "Pro Subscription Plan",
+    "service_period": "July 2025",
+    "amount": "\u20b94,999",
+    "tax": "\u20b9899.82",
+    "total": "\u20b95,898.82",
+    "metadata": {
+      "invoice_id": "SAAS-114",
+      "company_name": "FinServe Ltd",
+      "payer": "FinServe Ltd",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 7,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "MED-2202",
+    "company_name": "Riya Verma",
+    "payer": "Riya Verma",
+    "recipient": "Medical Provider",
+    "date": "2025-06-20",
+    "category": "healthcare",
+    "description": "Consultation",
+    "amount": 600,
+    "total": 600,
+    "metadata": {
+      "invoice_id": "MED-2202",
+      "company_name": "Riya Verma",
+      "payer": "Riya Verma",
+      "recipient": "Medical Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "healthcare"
+    }
+  },
+  {
+    "invoice_id": "MED-2202",
+    "company_name": "Riya Verma",
+    "payer": "Riya Verma",
+    "recipient": "Medical Provider",
+    "date": "2025-06-20",
+    "category": "healthcare",
+    "description": "ECG",
+    "amount": 1000,
+    "total": 1000,
+    "metadata": {
+      "invoice_id": "MED-2202",
+      "company_name": "Riya Verma",
+      "payer": "Riya Verma",
+      "recipient": "Medical Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "healthcare"
+    }
+  },
+  {
+    "invoice_id": "PH-010",
+    "company_name": "Maya Events",
+    "payer": "Maya Events",
+    "recipient": "Photography Service Provider",
+    "date": "2025-06-25",
+    "category": "events",
+    "description": "Event Shoot",
+    "unit_price": "\u20b912,000",
+    "quantity": 1,
+    "amount": "\u20b912,000",
+    "metadata": {
+      "invoice_id": "PH-010",
+      "company_name": "Maya Events",
+      "payer": "Maya Events",
+      "recipient": "Photography Service Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "invoice_id": "PH-010",
+    "company_name": "Maya Events",
+    "payer": "Maya Events",
+    "recipient": "Photography Service Provider",
+    "date": "2025-06-25",
+    "category": "events",
+    "description": "Prints (Album - 50 photos)",
+    "unit_price": "\u20b920/image",
+    "quantity": 50,
+    "amount": "\u20b91,000",
+    "metadata": {
+      "invoice_id": "PH-010",
+      "company_name": "Maya Events",
+      "payer": "Maya Events",
+      "recipient": "Photography Service Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "invoice_id": "001",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": null,
+    "date": "2025-06-14",
+    "category": "software",
+    "description": "Web App Development",
+    "hours": 40,
+    "unit_price": "\u20b91500",
+    "amount": "\u20b960,000",
+    "metadata": {
+      "invoice_id": "001",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "001",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": null,
+    "date": "2025-06-14",
+    "category": "software",
+    "description": "API Integration",
+    "hours": 10,
+    "unit_price": "\u20b92000",
+    "amount": "\u20b920,000",
+    "metadata": {
+      "invoice_id": "001",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "001",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": null,
+    "date": "2025-06-14",
+    "category": "software",
+    "description": "Tax (18% GST)",
+    "amount": "\u20b914,400",
+    "metadata": {
+      "invoice_id": "001",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "001",
+    "company_name": "Acme Corp",
+    "payer": "Acme Corp",
+    "recipient": null,
+    "date": "2025-06-14",
+    "category": "software",
+    "description": "Total",
+    "amount": "\u20b994,400",
+    "metadata": {
+      "invoice_id": "001",
+      "company_name": "Acme Corp",
+      "payer": "Acme Corp",
+      "recipient": null,
+      "year": 2025,
+      "month": 6,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "SAAS-113",
+    "company_name": "FinServe Ltd",
+    "payer": "FinServe Ltd",
+    "recipient": "Unknown",
+    "date": "2025-06-01",
+    "category": "software",
+    "description": "Pro Subscription",
+    "amount": "\u20b94,999",
+    "tax": "\u20b9899.82",
+    "total": "\u20b95,898.82",
+    "service_period": "June 2025",
+    "metadata": {
+      "invoice_id": "SAAS-113",
+      "company_name": "FinServe Ltd",
+      "payer": "FinServe Ltd",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "software"
+    }
+  },
+  {
+    "invoice_id": "EC-2243",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": "Unknown",
+    "date": "2025-06-14",
+    "category": "hardware",
+    "description": "Bluetooth Speaker",
+    "quantity": 1,
+    "unit_price": "\u20b92,999",
+    "total": "\u20b92,999",
+    "metadata": {
+      "invoice_id": "EC-2243",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "EC-2243",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": "Unknown",
+    "date": "2025-06-14",
+    "category": "hardware",
+    "description": "USB-C Charger",
+    "quantity": 2,
+    "unit_price": "\u20b9699",
+    "total": "\u20b91,398",
+    "metadata": {
+      "invoice_id": "EC-2243",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "EC-2243",
+    "company_name": "John Doe",
+    "payer": "John Doe",
+    "recipient": "Unknown",
+    "date": "2025-06-14",
+    "category": "hardware",
+    "description": "Delivery Fee",
+    "total": "\u20b9100",
+    "metadata": {
+      "invoice_id": "EC-2243",
+      "company_name": "John Doe",
+      "payer": "John Doe",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "hardware"
+    }
+  },
+  {
+    "invoice_id": "PH-009",
+    "company_name": "Maya Events",
+    "payer": "Maya Events",
+    "recipient": "Photographer/Videographer",
+    "date": "2025-06-14",
+    "category": "events",
+    "description": "Wedding Shoot",
+    "unit_price": "\u20b915,000",
+    "quantity": 1,
+    "amount": "\u20b915,000",
+    "total": "\u20b915,000",
+    "metadata": {
+      "invoice_id": "PH-009",
+      "company_name": "Maya Events",
+      "payer": "Maya Events",
+      "recipient": "Photographer/Videographer",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "invoice_id": "PH-009",
+    "company_name": "Maya Events",
+    "payer": "Maya Events",
+    "recipient": "Photographer/Videographer",
+    "date": "2025-06-14",
+    "category": "events",
+    "description": "Edited Photos (100)",
+    "unit_price": "\u20b910/image",
+    "quantity": 100,
+    "amount": "\u20b91,000",
+    "total": "\u20b91,000",
+    "metadata": {
+      "invoice_id": "PH-009",
+      "company_name": "Maya Events",
+      "payer": "Maya Events",
+      "recipient": "Photographer/Videographer",
+      "year": 2025,
+      "month": 6,
+      "category": "events"
+    }
+  },
+  {
+    "invoice_id": "RENT-564",
+    "company_name": "Arjun Mehta",
+    "payer": "Arjun Mehta",
+    "recipient": "Unknown",
+    "description": "Rent (June 2025)",
+    "amount": 22000,
+    "total": 22000,
+    "category": "logistics",
+    "service_period": "June 2025",
+    "date": "2025-06-01",
+    "metadata": {
+      "invoice_id": "RENT-564",
+      "company_name": "Arjun Mehta",
+      "payer": "Arjun Mehta",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "logistics"
+    }
+  },
+  {
+    "invoice_id": "RENT-564",
+    "company_name": "Arjun Mehta",
+    "payer": "Arjun Mehta",
+    "recipient": "Unknown",
+    "description": "Water Charges",
+    "amount": 500,
+    "total": 500,
+    "category": "logistics",
+    "date": "2025-06-01",
+    "metadata": {
+      "invoice_id": "RENT-564",
+      "company_name": "Arjun Mehta",
+      "payer": "Arjun Mehta",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "logistics"
+    }
+  },
+  {
+    "invoice_id": "RENT-564",
+    "company_name": "Arjun Mehta",
+    "payer": "Arjun Mehta",
+    "recipient": "Unknown",
+    "description": "Maintenance",
+    "amount": 1200,
+    "total": 1200,
+    "category": "logistics",
+    "date": "2025-06-01",
+    "metadata": {
+      "invoice_id": "RENT-564",
+      "company_name": "Arjun Mehta",
+      "payer": "Arjun Mehta",
+      "recipient": "Unknown",
+      "year": 2025,
+      "month": 6,
+      "category": "logistics"
+    }
+  },
+  {
+    "invoice_id": "MED-2201",
+    "company_name": "Riya Verma",
+    "payer": "Riya Verma",
+    "recipient": "Medical Facility",
+    "date": "2025-06-13",
+    "category": "healthcare",
+    "description": "Consultation",
+    "amount": 600,
+    "total": 600,
+    "metadata": {
+      "invoice_id": "MED-2201",
+      "company_name": "Riya Verma",
+      "payer": "Riya Verma",
+      "recipient": "Medical Facility",
+      "year": 2025,
+      "month": 6,
+      "category": "healthcare"
+    }
+  },
+  {
+    "invoice_id": "MED-2201",
+    "company_name": "Riya Verma",
+    "payer": "Riya Verma",
+    "recipient": "Medical Facility",
+    "date": "2025-06-13",
+    "category": "healthcare",
+    "description": "Blood Test Panel",
+    "amount": 1200,
+    "total": 1200,
+    "metadata": {
+      "invoice_id": "MED-2201",
+      "company_name": "Riya Verma",
+      "payer": "Riya Verma",
+      "recipient": "Medical Facility",
+      "year": 2025,
+      "month": 6,
+      "category": "healthcare"
+    }
+  },
+  {
+    "invoice_id": "MED-2201",
+    "company_name": "Riya Verma",
+    "payer": "Riya Verma",
+    "recipient": "Medical Facility",
+    "date": "2025-06-13",
+    "category": "healthcare",
+    "description": "X-ray",
+    "amount": 800,
+    "total": 800,
+    "metadata": {
+      "invoice_id": "MED-2201",
+      "company_name": "Riya Verma",
+      "payer": "Riya Verma",
+      "recipient": "Medical Facility",
+      "year": 2025,
+      "month": 6,
+      "category": "healthcare"
+    }
+  },
+  {
+    "invoice_id": "CST-448",
+    "company_name": "Matrix Solutions",
+    "payer": "Matrix Solutions",
+    "recipient": "Vendor/Service Provider",
+    "date": "2025-06-10",
+    "category": "consulting",
+    "description": "Business Strategy Session",
+    "unit_price": "\u20b910,000",
+    "quantity": 1,
+    "amount": "\u20b910,000",
+    "metadata": {
+      "invoice_id": "CST-448",
+      "company_name": "Matrix Solutions",
+      "payer": "Matrix Solutions",
+      "recipient": "Vendor/Service Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  },
+  {
+    "invoice_id": "CST-448",
+    "company_name": "Matrix Solutions",
+    "payer": "Matrix Solutions",
+    "recipient": "Vendor/Service Provider",
+    "date": "2025-06-10",
+    "category": "consulting",
+    "description": "3 Follow-up Consults",
+    "unit_price": "\u20b95,000",
+    "quantity": 3,
+    "amount": "\u20b915,000",
+    "metadata": {
+      "invoice_id": "CST-448",
+      "company_name": "Matrix Solutions",
+      "payer": "Matrix Solutions",
+      "recipient": "Vendor/Service Provider",
+      "year": 2025,
+      "month": 6,
+      "category": "consulting"
+    }
+  }
+]

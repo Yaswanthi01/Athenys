@@ -1,0 +1,20 @@
+✅ Easy Queries (straightforward metadata matching):
+"How much did Acme Corp pay in July 2025?"
+→ Matches company_name = "Acme Corp" and month = July, year = 2025
+
+"Show me the total amount John Doe paid."
+→ Matches payer = "John Doe" and sums all total values from matching invoices.
+
+🧠 Complex Queries (requiring fuzzy matching, multi-field filtering, or reasoning):
+"List all infrastructure-related expenses made by companies in 2025 exceeding ₹50,000."
+→ Filters by category ≈ infrastructure (fuzzy), year = 2025, and total > 50000
+
+"What services did Maya Events and FinServe Ltd pay for in the last two months?"
+→ Needs to:
+
+Match multiple company_names
+
+Filter by month and year (e.g., June and July 2025)
+
+Extract service descriptions
+

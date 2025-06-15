@@ -1,0 +1,10 @@
+Invoice #: MED-2202
+Date: 2025-06-20
+Patient: Riya Verma
+
+Service                        Fee
+----------------------------------------
+Consultation                  ₹600
+ECG                          ₹1,000
+
+Total: ₹1,600

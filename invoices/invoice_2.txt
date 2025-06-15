@@ -1,0 +1,12 @@
+Invoice #: EC-2243
+Date: 2025-06-14
+Customer: John Doe
+
+Item                         Qty     Price      Total
+-------------------------------------------------------
+Bluetooth Speaker            1       ₹2,999     ₹2,999
+USB-C Charger                2       ₹699       ₹1,398
+
+Subtotal:                                        ₹4,397
+Delivery Fee:                                     ₹100
+Total:                                          ₹4,497

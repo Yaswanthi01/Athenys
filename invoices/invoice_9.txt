@@ -1,0 +1,13 @@
+Invoice #: INT-901
+Date: 2025-06-12
+Client: Sahil Rana
+
+Service                        Rate         Amount
+-----------------------------------------------------
+Living Room Design             ₹35,000      ₹35,000
+Furniture Coordination         ₹15,000      ₹15,000
+
+Subtotal: ₹50,000
+GST (18%): ₹9,000
+
+Total: ₹59,000
