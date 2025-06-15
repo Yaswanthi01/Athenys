@@ -12,15 +12,15 @@ And get accurate answers by parsing, embedding, and searching thousands of invoi
 
 ├── invoices/ # Raw invoice text files  
 ├── structured_output/ # Generated structured JSONs & Chroma vectorstore  
-├── config.py # Env & API config
-├── parser.py # Extract structured data from invoice text using LLM
-├── embedder.py # Embeds structured data to Chroma vectorstore
-├── retriever.py # Handles metadata extraction, retrieval, fuzzy boosting, answer generation
-├── streamlit_app.py # Streamlit interface for querying
-├── main.py # Entry point to run parsing + embedding pipeline
-├── empty_collection.py # Script to clear the Chroma vectorstore
-├── utils.py # Utility functions
-└── queries.txt # Sample queries
+├── config.py # Env & API config  
+├── parser.py # Extract structured data from invoice text using LLM  
+├── embedder.py # Embeds structured data to Chroma vectorstore  
+├── retriever.py # Handles metadata extraction, retrieval, fuzzy boosting, answer generation  
+├── streamlit_app.py # Streamlit interface for querying  
+├── main.py # Entry point to run parsing + embedding pipeline  
+├── empty_collection.py # Script to clear the Chroma vectorstore  
+├── utils.py # Utility functions  
+└── queries.txt # Sample queries  
 
 ## 🚀 Setup Instructions
 
