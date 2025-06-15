@@ -10,8 +10,8 @@ And get accurate answers by parsing, embedding, and searching thousands of invoi
 
 ## 📁 Project Structure
 
-├── invoices/ # Raw invoice text files
-├── structured_output/ # Generated structured JSONs & Chroma vectorstore
+├── invoices/ # Raw invoice text files  
+├── structured_output/ # Generated structured JSONs & Chroma vectorstore  
 ├── config.py # Env & API config
 ├── parser.py # Extract structured data from invoice text using LLM
 ├── embedder.py # Embeds structured data to Chroma vectorstore
