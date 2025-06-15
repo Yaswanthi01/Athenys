@@ -77,6 +77,7 @@ python empty_collection.py
 
 ## 📌 Todo (Future scope)
  Add PDF → Markdown preprocessor  
+ Add Map-reduce implementation while answering the query to process very huge contexts  
  Add support for image-based OCR  
  Improve category classification  
  Add agent-based query planner  
